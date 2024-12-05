@@ -4,5 +4,4 @@ date: last-modified
 resources:
   - .nojekyll
 ---
-
-Setting up CI for quarto website.
+Setting up CI for quarto website build & publish.

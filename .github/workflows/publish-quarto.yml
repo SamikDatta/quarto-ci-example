@@ -24,3 +24,10 @@ jobs:
             target: gh-pages # renderred html files will be pushed here
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
+            
+ project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: auto
+format: html
