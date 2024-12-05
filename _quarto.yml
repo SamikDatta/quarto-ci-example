@@ -1,12 +1,8 @@
 project:
   type: website
   output-dir: docs
-  
-execute:
-  freeze: auto
-  
 format:
   html:
     theme: cosmo
   pdf:
-    documentclass: scrreprt
+    documentclass: article
