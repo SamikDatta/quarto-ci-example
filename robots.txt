@@ -1,1 +1,0 @@
-Sitemap: https://SamikDatta.github.io/quarto-ci-example/sitemap.xml

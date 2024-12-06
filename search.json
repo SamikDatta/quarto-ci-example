@@ -2,8 +2,11 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello Quarto CI",
+    "title": "Playing around with getting Quarto to publish both HTML and PDF",
     "section": "",
-    "text": "Setting up CI for quarto website build & publish.\nSamik Datta, reporting for duty.\nAre you seeing this extra text?"
+    "text": "Setting up CI for quarto website build & publish.\nSamik Datta, reporting for duty.\nAre you seeing this extra text?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hello Quarto CI</span>"
+    ]
   }
 ]
