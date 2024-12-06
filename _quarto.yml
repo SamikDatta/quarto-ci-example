@@ -1,10 +1,21 @@
 project:
-  type: website
-  render:
-    - index.qmd
+  type: book
   output-dir: docs
+
+book:
+  title: "Playing around with getting Quarto to publish both HTML and PDF"
+  author: "Samik Datta"
+  repo-url: https://github.com/SamikDatta/quarto-ci-example
+  repo-branch: main
+  chapters:
+    - index.qmd
+  search: true
+
 format:
   html:
     theme: cosmo
+    code-link: true
   pdf:
-    documentclass: article
+    documentclass: krantz
+    keep-tex: true
+    output-file: pdf-book
