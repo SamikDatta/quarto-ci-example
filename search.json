@@ -4,6 +4,6 @@
     "href": "index.html",
     "title": "Hello Quarto CI",
     "section": "",
-    "text": "Setting up CI for quarto website build & publish.\nSamik Datta, reporting for duty."
+    "text": "Setting up CI for quarto website build & publish.\nSamik Datta, reporting for duty.\nAre you seeing this extra text?"
   }
 ]
