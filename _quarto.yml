@@ -16,6 +16,6 @@ format:
     theme: cosmo
     code-link: true
   pdf:
-    documentclass: krantz
+    documentclass: scrreprt
     keep-tex: true
     output-file: pdf-book
